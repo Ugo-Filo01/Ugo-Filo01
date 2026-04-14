@@ -14,3 +14,7 @@ My main interests lie in Automatic Control, System Theory, and Robotics, with a 
 I enjoy working on both theoretical and practical aspects of control engineering, bridging mathematical modeling with real-world applications.
 
 Keywords: Control Systems, Robotics, Nonlinear Control, System Modeling, MATLAB, Simulink, Python, Feedback Control, Dynamical Systems, Automation Engineering
+
+Contacts:
+- emails: filippo.ugolini@studio.unibo.it| filippougolini19@gmail.com
+- LinkeIn: https://www.linkedin.com/in/filippo-ugolini-67622a2ba/
